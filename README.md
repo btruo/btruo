@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btruo
+- 👋 Hi, I’m Brandon Truong
 - 👀 I’m interested in creating! I want to be able to DIY a website, video and written content, and share my hobbies & passions.
 - 🌱 I’m currently learning Javascript, React, Python. Also completing my Masters degree in Mechanical Engineering, with a focus on water treatment.
 - 💞️ I’m looking to collaborate on TBA
